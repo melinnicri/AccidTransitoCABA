@@ -113,36 +113,54 @@ Readme;
 - En otras palabras, los datos podrían seguir una distribución normal.
 
 
+
+
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fallec_agno.png"></p>
 * Estos son víctimas fatales por accidentes de tránsito por año.
 
 
+
+
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fallec_edad.png"></p>
 * Aunque no se pueden ver los números, la edad donde más frecuenta fallecidos son 20-30 años a lo largo de los años.
+
+
 
  
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fall_sex_agno.png"></p>
 * También a lo largo de los años, los fallecidos concentrados son de sexo masculino.
 
 
+
+
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/motos_agnos.png"></p>
 * La moto, al ser un poco más accesible que un auto, concentra la mayor cantidad de accidentes de tránsito mortales.
+
+
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Vict_tipo_calle.png"></p>   
 * Avenida es el tipo de calle que más se repite en los accidentes mortales de tránsito.
 
 
+
+
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Lesion_agno.png"></p>
 * En cuanto a los lesionados por año son muchos más que las víctimas fatales, pero no menos importantes por la inhabilidad que pueden provocar y los costos de salud asociados.
+
+
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Lesio_sex_agno.png"></p>
 * Los lesionados nuevamente son mayoría masculinos a través de los años.
 
 
+
+
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Lesion_eda_agno.png"></p>
 * Los lesionados a través de los años 2020 y 2021, mayoritariamente se encuentran en el rango 20-30 años (“el riesgo de la juventud”).
+
+
 
 
 ## Conclusiones: 
@@ -174,14 +192,21 @@ De acuerdo con los resultados obtenidos en PowerBI, podemos concluir que:
 
 
 ## Recomendaciones:
+
 - Mientras más tránsito vehicular, más accidentes, por lo que tomar las medidas de precaución, como respetar las señales de tránsito, transitar a una velocidad prudente, mantener el cinturón de seguridad como el uso de cascos y ropa apropiada para motos (cuero antidesforramiento), cruzar en zona habilitada, descansar lo necesario para conducir vehículos, no beber alcohol, ni consumir drogas psicotrópicas que afecten la conducción, por lo que se recomienda:
 
 •	Respetar las señales de tránsito: Las señales de tránsito están diseñadas para mantener el orden en las carreteras y garantizar la seguridad de los conductores y peatones. Es importante respetar estas señales para evitar accidentes.
+
 •	Mantener el vehículo en buen estado: es importante realizar un mantenimiento preventivo cada cierto tiempo.
+
 •	Transitar a una velocidad prudente: Conducir a una velocidad adecuada es fundamental para evitar accidentes. La velocidad debe ser ajustada a las condiciones del tráfico y del clima.
+
 •	Mantener el cinturón de seguridad como el uso de cascos y ropa apropiada para motos (cuero antidesforramiento): El uso del cinturón de seguridad y de cascos es obligatorio en muchos países. Estos elementos de seguridad pueden salvar vidas en caso de accidentes. Además, es importante usar ropa adecuada para motos, como cuero antidesforramiento, para protegerse en caso de caídas, y reflectantes.
+
 •	Cruzar en zona habilitada: Los peatones deben cruzar la calle en las zonas habilitadas para ello. Cruzar la calle en lugares no autorizados puede ser peligroso y aumentar el riesgo de accidentes.
+
 •	Descansar lo necesario para conducir vehículos: Conducir cansado o con sueño puede ser peligroso. Es importante descansar lo suficiente antes de conducir para evitar accidentes.
+
 •	No beber alcohol, ni consumir drogas psicotrópicas que afecten la conducción: El alcohol y las drogas psicotrópicas pueden afectar la capacidad de conducción y aumentar el riesgo de accidentes. Es importante evitar su consumo antes de conducir.
 ### FIN…_@v
 
