@@ -77,16 +77,16 @@ Contribuyen a crear un entorno vial más seguro para todos los usuarios, incluye
 
 ## Archivos: 
 
-BaseDatos (Diccionario de datos Siniestros, homicidios, lesiones, PobCABA), ["BaseDatos"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/BaseDatos]);
-EDA (dfs de homicidios, lesiones, EDA.ipynb, espec_homicidios, espec_lesion)["EDA"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/EDA]);
-Gráficos en images (gráficos de Lesiones, Fallecidos)["Gráficos"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/images]);
-KPIs (las distintas dfs para confeccionar las KPIs)["KPIs"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/KPIs]);
-OtraData (OtraData.ipynb, data de homicidios y lesiones en específico)["OtraData"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/OtraData]);
-Panel (en png)["Panel"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/Panel]);
-["Readme"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/README.md]);
-[“Panel Accidentes”]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/AccidentesPBI.pbix]);
-["Notebook Homicidios en Python"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/homicidios.ipynb]);
-["Notebook Lesiones en Python"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/lesionados.ipynb]).
+BaseDatos (Diccionario de datos Siniestros, homicidios, lesiones, PobCABA), ["BaseDatos"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/BaseDatos])
+EDA (dfs de homicidios, lesiones, EDA.ipynb, espec_homicidios, espec_lesion)["EDA"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/EDA])
+Gráficos en images (gráficos de Lesiones, Fallecidos)["Gráficos"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/images])
+KPIs (las distintas dfs para confeccionar las KPIs)["KPIs"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/KPIs])
+OtraData (OtraData.ipynb, data de homicidios y lesiones en específico)["OtraData"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/OtraData])
+Panel (en png)["Panel"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/Panel])
+["Readme"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/README.md])
+[“Panel Accidentes”]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/AccidentesPBI.pbix])
+["Notebook Homicidios en Python"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/homicidios.ipynb])
+["Notebook Lesiones en Python"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/lesionados.ipynb])
 
 
 
