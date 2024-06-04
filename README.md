@@ -8,8 +8,7 @@
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Accidentes.jpg"></p>
 
 
-## Trabajo rol de Data analyst acerca de los accidentes de tránsito ocurridos entre 
-## los años 2016 - 2021, de la Ciudad Autónoma de Buenos Aires, Argentina. 
+## Trabajo rol de Data analyst acerca de los accidentes de tránsito ocurridos entre los años 2016 - 2021, de la Ciudad Autónoma de Buenos Aires, Argentina. 
 
 Los accidentes de tránsito son una de las principales causas de muerte y lesiones en la ciudad. Según el gobierno porteño, los factores que contribuyen a los accidentes son el incumplimiento de la ley de tránsito, el exceso de velocidad, el no respetar las señales de tránsito, el no usar cinturón de seguridad o apoya cabezas y el conducir con cansancio. Además, los medios de transporte más involucrados en los accidentes son las motos, seguidas por los autos y los colectivos. Los accidentes de tránsito generan un alto costo social y económico, así como un impacto negativo en la calidad de vida de las personas.
 
@@ -75,28 +74,38 @@ Contribuyen a crear un entorno vial más seguro para todos los usuarios, incluye
 - COMUNA 15: Chacarita, Villa Crespo, La Paternal, Villa Ortúzar, Agronomía y Parque Chas.
 
 
+
 ## Archivos: 
 
-BaseDatos (Diccionario de datos Siniestros, homicidios, lesiones, PobCABA);   ["Notebook Accidentes"](https://github.com/melinnicri/Accidentes_transito/blob/main/Accidentes.ipynb)
-EDA (dfs de homicidios, lesiones, EDA.ipynb, espec_homicidios, espec_lesion);
-Gráficos en images (gráficos de Lesiones, Fallecidos);
-KPIs (las distintas dfs para confeccionar las KPIs);
-OtraData (OtraData.ipynb, data de homicidios y lesiones en específico);
-Panel (en png);
-Readme;
-“accidentesPBI.pbix”;
-“homicidios.ipynb”;
-“lesionados.ipynb”.
+BaseDatos (Diccionario de datos Siniestros, homicidios, lesiones, PobCABA), ["BaseDatos"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/BaseDatos]);
+EDA (dfs de homicidios, lesiones, EDA.ipynb, espec_homicidios, espec_lesion)["EDA"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/EDA]);
+Gráficos en images (gráficos de Lesiones, Fallecidos)["Gráficos"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/images]);
+KPIs (las distintas dfs para confeccionar las KPIs)["KPIs"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/KPIs]);
+OtraData (OtraData.ipynb, data de homicidios y lesiones en específico)["OtraData"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/OtraData]);
+Panel (en png)["Panel"]([https://github.com/melinnicri/AccidTransitoCABA/tree/main/Panel]);
+["Readme"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/README.md]);
+[“Panel Accidentes”]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/AccidentesPBI.pbix]);
+["Notebook Homicidios en Python"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/homicidios.ipynb]);
+["Notebook Lesiones en Python"]([https://github.com/melinnicri/AccidTransitoCABA/blob/main/lesionados.ipynb]).
+
 
 
 ## Panel:
+
+Fotografías: ["Archivos Panel"](https://github.com/melinnicri/AccidTransitoCABA/tree/main/Panel)
+Panel: ["Accidentes"](https://github.com/melinnicri/AccidTransitoCABA/blob/main/AccidentesPBI.pbix)
+
+
+
 
 ## Gráficos extras:
 
 
  
-<p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Evol_fallec_agno.png"></p>   
+<p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Evol_fallec_agno.png"></p>  
+
 * Aquí muestra los lesionados que fallecen ya que fueron de gravedad.
+
 
 * Se aplicó una prueba de Normalidad:
 - Total de fallecidos por año:
@@ -117,48 +126,57 @@ Readme;
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fallec_agno.png"></p>
+
 * Estos son víctimas fatales por accidentes de tránsito por año.
 
 
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fallec_edad.png"></p>
+
 * Aunque no se pueden ver los números, la edad donde más frecuenta fallecidos son 20-30 años a lo largo de los años.
+
 
 
 
  
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fall_sex_agno.png"></p>
+
 * También a lo largo de los años, los fallecidos concentrados son de sexo masculino.
 
 
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/motos_agnos.png"></p>
+
 * La moto, al ser un poco más accesible que un auto, concentra la mayor cantidad de accidentes de tránsito mortales.
 
 
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Vict_tipo_calle.png"></p>   
+
 * Avenida es el tipo de calle que más se repite en los accidentes mortales de tránsito.
 
 
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Lesion_agno.png"></p>
+
 * En cuanto a los lesionados por año son muchos más que las víctimas fatales, pero no menos importantes por la inhabilidad que pueden provocar y los costos de salud asociados.
 
 
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Lesio_sex_agno.png"></p>
+
 * Los lesionados nuevamente son mayoría masculinos a través de los años.
 
 
 
 
 <p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Lesion_eda_agno.png"></p>
+
 * Los lesionados a través de los años 2020 y 2021, mayoritariamente se encuentran en el rango 20-30 años (“el riesgo de la juventud”).
 
 
