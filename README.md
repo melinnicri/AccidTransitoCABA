@@ -9,7 +9,8 @@
 
 
 ## Trabajo rol de Data analyst acerca de los accidentes de tránsito ocurridos 
-## entre los años 2016 - 2021, de la Ciudad Autónoma de Buenos Aires, Argentina. 
+## entre los años 2016 - 2021, 
+## en la Ciudad Autónoma de Buenos Aires, Argentina. 
 
 Los accidentes de tránsito son una de las principales causas de muerte y lesiones en la ciudad. Según el gobierno porteño, los factores que contribuyen a los accidentes son el incumplimiento de la ley de tránsito, el exceso de velocidad, el no respetar las señales de tránsito, el no usar cinturón de seguridad o apoya cabezas y el conducir con cansancio. Además, los medios de transporte más involucrados en los accidentes son las motos, seguidas por los autos y los colectivos. Los accidentes de tránsito generan un alto costo social y económico, así como un impacto negativo en la calidad de vida de las personas.
 
