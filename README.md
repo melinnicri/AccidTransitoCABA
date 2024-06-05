@@ -108,6 +108,12 @@ Contribuyen a crear un entorno vial más seguro para todos los usuarios, incluye
 * Aquí muestra los lesionados que fallecen ya que fueron de gravedad.
 
 
+
+
+<p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fallec_agno.png"></p>
+
+* Estos son víctimas fatales por accidentes de tránsito por año.
+
 * Se aplicó una prueba de Normalidad:
 - Total de fallecidos por año:
 - Estadística de prueba: Agno_fallec    0.986769
@@ -122,13 +128,6 @@ Contribuyen a crear un entorno vial más seguro para todos los usuarios, incluye
 - La estadística de prueba (W) es un valor calculado por la prueba de normalidad. En este caso, el valor de W es aproximadamente 0.9868 para la columna “Agno_fallec” (año fallecido).
 - Esta estadística se utiliza para evaluar si los datos siguen una distribución normal. Cuanto más cercano esté W a 1, más se asemejarán los datos a una distribución normal. Y pval = 0,42.
 - En otras palabras, los datos podrían seguir una distribución normal.
-
-
-
-
-<p align="center"><img src="https://github.com/melinnicri/AccidTransitoCABA/blob/main/images/Fallec_agno.png"></p>
-
-* Estos son víctimas fatales por accidentes de tránsito por año.
 
 
 
